@@ -10,7 +10,7 @@ License: [Attribution-ShareAlike 4.0 International](http://creativecommons.org/l
 
 
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/subscribe-better.html)
+[View demo](http://www.thepetedesign.com/demos/subscribe-better_demo.html)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari on both desktop and mobile have been tested. Not tested on IE.
